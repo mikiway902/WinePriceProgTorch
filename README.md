@@ -2,4 +2,4 @@
 PET проект прогнозирования цен на недвижимость с использованием библиотеки глубокого обучения PyTorch
 
 Dataset:
-https://www.kaggle.com/datasets/egorkainov/moscow-housing-price-dataset
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
